@@ -1,11 +1,13 @@
-/* Basis for top layer */ 
-
 body {
-    background-color: powderblue;
+    background: linear-gradient(180deg, #0177FE 0%, #94C5FE 20%, 
+    	#03A52E 45%, #4D4C4C 48%, #2B2B26 60%, #010000 70%, #000000 80%);
+    height: 10000px;
 }
+
 h1 {
     color: blue;
 }
-p{
+
+p {
     color: red;
 }
